@@ -7,7 +7,7 @@
 4.How-You-Did.com  - HTML,CSS,ReactJS,NodeJS,MySQL
 
 # Main Projects:
-1.Building a Interface for Operating Computer Devices without hand  - C++,OpenCV \
+1.Web based Water Quality Dashboard (for Smart India Hackathon) - HTML,CSS,ReactJS,NodeJS
 2.Farmer's Crop Bidding Platform  - HTML,CSS,ReactJS,NodeJS,MySQL\
 3.Queue Management System - HTML,CSS,Javascript
 
