@@ -4,7 +4,8 @@
 1.Building a Chrome Extension  - Javascript\
 2.Mini Voice Assistant  - Python \
 3.Pathfinder (with Travelling Salesman Problem Implementation) - HTML,CSS,Javascript,Jquery  \
-4.How-You-Did.com  - HTML,CSS,ReactJS,NodeJS,MySQL
+4.How-You-Did.com  - HTML,CSS,ReactJS,NodeJS,MySQL \
+5.Image Website - HTML,CSS,ReactJS,NodeJS,MySQL
 
 # Main Projects:
 1.Web based Water Quality Dashboard (for Smart India Hackathon) - HTML,CSS,Javascript,Python \
