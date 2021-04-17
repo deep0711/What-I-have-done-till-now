@@ -5,7 +5,7 @@
 2.Mini Voice Assistant  - Python \
 3.Pathfinder (with Travelling Salesman Problem Implementation) - HTML,CSS,Javascript,Jquery  \
 4.How-You-Did.com  - HTML,CSS,ReactJS,NodeJS,MySQL \
-5.Image Website - HTML,CSS,ReactJS,NodeJS,MySQL
+5.Image Website - HTML,CSS,ReactJS,NodeJS,MySQL \
 6.Basic Android Projects
 
 # Main Projects:
