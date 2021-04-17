@@ -3,8 +3,8 @@
 # Fun-time Projects:
 1.Building a Chrome Extension  - Javascript\
 2.Mini Voice Assistant  - Python \
-3.Pathfinder (with Travelling Salesman Problem Implementation) - HTML,CSS,Javascript,Jquery  \
-4.How-You-Did.com  - HTML,CSS,ReactJS,NodeJS,MySQL \
+3.Pathfinder -Implemented A* and Dijkstra algorithm ,also implemented Travelling Salesman Problem - HTML,CSS,Javascript,Jquery  \
+4.How-You-Did.com -A Edu-blog website project - HTML,CSS,ReactJS,NodeJS,MySQL \
 5.Image Website - HTML,CSS,ReactJS,NodeJS,MySQL \
 6.Basic Android Projects
 
