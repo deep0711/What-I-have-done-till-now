@@ -7,7 +7,7 @@
 4.How-You-Did.com  - HTML,CSS,ReactJS,NodeJS,MySQL
 
 # Main Projects:
-1.Web based Water Quality Dashboard (for Smart India Hackathon) - HTML,CSS,ReactJS,NodeJS \
+1.Web based Water Quality Dashboard (for Smart India Hackathon) - HTML,CSS,Javascript,Python \
 2.Farmer's Crop Bidding Platform  - HTML,CSS,ReactJS,NodeJS,MySQL\
 3.Queue Management System - HTML,CSS,Javascript
 
