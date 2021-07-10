@@ -39,6 +39,9 @@
   - 🎯 HTML, CSS, Javascript 
   - 🚀 https://github.com/deeparmyschool456/Queue_Management
 
+4.College Placement Portal
+  - 🎯 HTML, CSS, ReactJS, NodeJS, MySQL
+
 # 🚩 Internship Work:  
 
 1.Cloud Counselage 
