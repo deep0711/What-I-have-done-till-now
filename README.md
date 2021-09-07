@@ -42,7 +42,11 @@
 4.College Placement Portal
   - 🎯 HTML, CSS, ReactJS, NodeJS, MySQL
 
-# 🚩 Internship Work:  
+5.Final Year Project - Interactive Shopping Experience using AR
+  - 🎯 Android, Vuforia SDK, AlexNet CNN
+  
+
+# 🚩 Internship Experience:  
 
 1.Cloud Counselage 
   - ⭐ Technical Intern  
@@ -51,3 +55,6 @@
 2.Britebear 
   - ⭐ Software Developer Intern 
   - 🎯 HTML, CSS, Jquery, Angular 9, NodeJS, MySQL 
+
+3.Microsoft
+  - ⭐ Software Engineer Intern
